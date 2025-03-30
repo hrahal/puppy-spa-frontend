@@ -1,4 +1,4 @@
-# Puppy Spa Frontend Project - README.en
+# Puppy Spa Frontend Project - README
 
 Puppy Spa frontend project.
 
